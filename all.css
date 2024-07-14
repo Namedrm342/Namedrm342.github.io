@@ -1,0 +1,11 @@
+.moji {
+    transform: rotateX(180deg);
+}
+.moji:hover {
+    transform: rotateX(360deg);
+    transition: all 1s;
+}
+.tap {
+    border: solid;
+    border-width: thick;
+}
